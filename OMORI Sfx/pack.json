@@ -1,0 +1,10 @@
+{
+  "name": "Omori BGM",
+  "description": "Adds background music from the game OMORI. (A Home For Flowers - Tulip)",
+  "author": "Niko",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
